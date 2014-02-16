@@ -96,4 +96,16 @@
 	font-weight: bold !important;
 	color: #C5C8C6 !important;
 	}
+
+	table[border="1"] {
+	background: #282A2E !important;
+	border: 1px solid #111111 !important;
+	color: #C5C8C6 !important;
+	font-size: 13px !important;
+	list-style: none outside none !important;
+	margin: 0 !important;
+	overflow: hidden !important;
+	padding: 0px 7px !important;
+	padding-top: 4px !important;
+	}
 }
