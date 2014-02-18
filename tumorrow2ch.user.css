@@ -109,7 +109,11 @@
 	padding-top: 4px !important;
 	}
 
-	.rmenu{
+	.rmenu {
 	font-size: 9pt !important;
+	}
+
+	.de-parea {
+	font-size: 10pt !important;
 	}
 }
