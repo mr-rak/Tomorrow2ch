@@ -116,4 +116,9 @@
 	.de-parea {
 	font-size: 10pt !important;
 	}
+
+	div[id*="preview_"] {
+	border: 1px solid #111111 !important;
+	}
+
 }
