@@ -1,16 +1,16 @@
 @-moz-document regexp("http(|s)://(|www.)2(|-)ch\.(so|ru|hk|ec|pm|re|tf|wf|yt).*") {
 
-	.footer, #boardNav, .logo img, .r36, .rek64, span[style="color: #800080; font-size: 0.9em; text-align: center;"], div[style="font-size:0.9em;"], hr[style="clear: left;"], a[href*="liveinternet.ru"], #trumpet_message { 
-    	display: none !important;
+	.footer, #boardNav, .logo img, .r36, .rek64, span[style="color: #800080; font-size: 0.9em; text-align: center;"], div[style="font-size:0.9em;"], hr[style="clear: left;"], a[href*="liveinternet.ru"], #trumpet_message {
+	display: none !important;
 	}
 
-	hr[style="clear: left;"]:nth-child(2){ 
+	hr[style="clear: left;"]:nth-child(2) { 
     	display: block !important;
 	}
 
 	html,body {
-	background-color: #1D1F21!important;
-	color: #C5C8C6!important;
+	background-color: #1D1F21 !important;
+	color: #C5C8C6 !important;
 	font-family: "Trebuchet MS",Trebuchet,tahoma,serif !important;
 	font-size: 16px !important;
 	margin-left: 0 !important;
@@ -26,7 +26,7 @@
 /*	max-width: 1000px !important;*/
 	}
 
-	.reply{
+	.reply {
 	background-color: #282A2E !important;
 	border-radius: 0 !important;
 	border: 1px solid #282A2E !important;
@@ -68,7 +68,7 @@
 	hr {
 	border:none !important;
 	border-top: 1px solid #282a2e !important;
-    	height: 0 !important;
+	height: 0 !important;
 	}
 
 	br[style="clear:left;"] {
