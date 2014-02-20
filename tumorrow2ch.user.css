@@ -156,8 +156,13 @@
 	color: #5F89AC !important;
 	text-decoration: underline !important;
 	}
-	
+
 	.left h3, .welcome {
 	color: #C5C8C6 !important;
+	}
+
+	#adminbar, #adminbar a {
+	font-family: "Trebuchet MS",Trebuchet,tahoma,serif !important;
+	font-size: 14px !important;
 	}
 }
