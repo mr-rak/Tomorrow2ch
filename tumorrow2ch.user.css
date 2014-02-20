@@ -121,6 +121,10 @@
 	text-decoration: none !important;
 	}
 
+	.rmenu a:hover {
+	text-decoration: underline !important;
+	}
+	
 	.de-parea {
 	font-size: 14px !important;
 	}
