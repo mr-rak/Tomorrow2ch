@@ -113,6 +113,10 @@
 	font-size: 14px !important;
 	}
 
+	.rmenu a {
+	text-decoration: none !important;
+	}
+	
 	.de-parea {
 	font-size: 14px !important;
 	}
