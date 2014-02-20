@@ -101,20 +101,20 @@
 	background: #282A2E !important;
 	border: 1px solid #111111 !important;
 	color: #C5C8C6 !important;
-	font-size: 13px !important;
+	font-size: 14px !important;
 	list-style: none outside none !important;
 	margin: 0 !important;
 	overflow: hidden !important;
 	padding: 0px 7px !important;
-	padding-top: 4px !important;
+	padding-top: 3px !important;
 	}
 
 	.rmenu {
-	font-size: 9pt !important;
+	font-size: 14px !important;
 	}
 
 	.de-parea {
-	font-size: 10pt !important;
+	font-size: 14px !important;
 	}
 
 	div[id*="preview_"] {
