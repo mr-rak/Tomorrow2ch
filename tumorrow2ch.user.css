@@ -109,6 +109,10 @@
 	padding-top: 3px !important;
 	}
 
+	table[border="1"] a {
+	text-decoration: none !important;
+	}
+	
 	.rmenu {
 	font-size: 14px !important;
 	}
@@ -116,7 +120,7 @@
 	.rmenu a {
 	text-decoration: none !important;
 	}
-	
+
 	.de-parea {
 	font-size: 14px !important;
 	}
