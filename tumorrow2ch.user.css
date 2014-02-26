@@ -196,9 +196,15 @@
 	text-decoration: underline !important;
 	}
 
-	.nl404 h5, .welcome {
+	.nl404 h5 {
 	color: #C5C8C6 !important;
 	background-color: #282A2E !important;
+	border: none !important;
+	}
+
+	.welcome {
+	background-color: #1D1F21 !important;
+	color: #C5C8C6 !important;
 	border: none !important;
 	}
 
