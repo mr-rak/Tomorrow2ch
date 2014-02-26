@@ -1,10 +1,18 @@
 // ==UserScript==
-
 // @name        2chMenu
-// @namespace   2ch
+// @namespace   https://github.com/mr-rak/Tomorrow2ch
 // @include     http://*2ch.hk/*
 // @include     https://*2ch.hk/*
-// @description   A basic example of Greasemonkey that causes an alert at each page load.
+// @include     http://*2ch.so/*
+// @include     https://*2ch.so/*
+// @include     http://*2ch.ru/*
+// @include     https://*2ch.ru/*
+// @include     http://*2ch.ec/*
+// @include     https://*2ch.ec/*
+// @include     http://*2ch.pm/*
+// @include     https://*2ch.pm/*
+// @include     http://*2ch.tf/*
+// @include     https://*2ch.tf/*
 // ==/UserScript==
 
 var menu = '';
