@@ -23,7 +23,7 @@
 	form {
 	font-size: 0.9em;
 	}
-	
+
 	.thread {
 	clear:both !important;
 	margin: 0 auto !important;
@@ -77,6 +77,10 @@
 
 	br[style="clear:left;"] {
 	display:none !important;
+	}
+	
+	.reflink a{
+	text-decoration: none !important;
 	}
 
 	.unkfunc {
