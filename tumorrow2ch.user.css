@@ -20,6 +20,10 @@
 	padding-right: 5px !important;
 	}
 
+	form {
+	font-size: 0.9em;
+	}
+	
 	.thread {
 	clear:both !important;
 	margin: 0 auto !important;
