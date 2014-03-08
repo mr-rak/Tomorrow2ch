@@ -1,7 +1,13 @@
-﻿Порт форчановского Toomorrow для 2ch.hk.
+﻿# Порт форчановского Toomorrow для 2ch.hk.
 
-![Top](https://raw.github.com/mr-rak/Tomorrow2ch/master/top.png)
+# [Установить стиль](http://userstyles.org/styles/98408/tomorrow2ch)
 
-![Bottom](https://raw.github.com/mr-rak/Tomorrow2ch/master/bottom.png)
+# [Установить меню](http://userstyles.org/styles/98408/tomorrow2ch)
 
-![Home](https://raw.github.com/mr-rak/Tomorrow2ch/master/home.png)
+-># Скриншоты. <-
+
+->![Top](https://raw.github.com/mr-rak/Tomorrow2ch/master/top.png)<-
+
+->![Bottom](https://raw.github.com/mr-rak/Tomorrow2ch/master/bottom.png)<-
+
+->![Home](https://raw.github.com/mr-rak/Tomorrow2ch/master/home.png)<-
