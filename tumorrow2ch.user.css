@@ -78,7 +78,7 @@
 	br[style="clear:left;"] {
 	display:none !important;
 	}
-	
+
 	.reflink a{
 	text-decoration: none !important;
 	}
@@ -251,4 +251,12 @@
 	color: #C5C8C6 !important;
 	font-size: 13px !important;
 	}
+
+	.newsline {
+	border-bottom: 0.1px solid #111111 !important;
+    margin: 0 0 15px !important;
+    padding: 0 0 15px !important;
+    text-align: center !important;
+	}
+	
 }
