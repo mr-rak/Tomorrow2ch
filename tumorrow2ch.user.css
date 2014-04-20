@@ -117,8 +117,9 @@
 	padding-top: 3px !important;
 	}
 
-	table[border="1"] a {
+	table[border="1"] a, td {
 	text-decoration: none !important;
+	border-style: none;
 	}
 
 	.rmenu {
