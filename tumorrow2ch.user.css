@@ -1,6 +1,6 @@
 @-moz-document regexp("http(|s)://(|www.)2(|-)ch\.(so|ru|hk|ec|pm|re|tf|wf|yt).*") {
 
-	.footer, #boardNav, .logo img, .r36, .rek64, span[style="color: #800080; font-size: 0.9em; text-align: center;"], div[style="font-size:0.9em;"], hr[style="clear: left;"], a[href*="liveinternet.ru"], #trumpet_message, .mobile {
+	.footer, #boardNav, .logo img, .r36, .rek64, span[style="color: red; font-size: 1em; text-align: center;"], div[style="font-size:0.9em;"], hr[style="clear: left;"], a[href*="liveinternet.ru"], #trumpet_message, .mobile {
 	display: none !important;
 	}
 
@@ -254,9 +254,9 @@
 
 	.newsline {
 	border-bottom: 0.1px solid #111111 !important;
-    margin: 0 0 15px !important;
-    padding: 0 0 15px !important;
-    text-align: center !important;
+	margin: 0 0 15px !important;
+	padding: 0 0 15px !important;
+	text-align: center !important;
 	}
 	
 }
