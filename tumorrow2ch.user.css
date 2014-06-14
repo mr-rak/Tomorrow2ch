@@ -1,6 +1,6 @@
 @-moz-document regexp("http(|s)://(|www.)2(|-)ch\.(so|ru|hk|ec|pm|re|tf|wf|yt).*") {
 
-	.footer, #boardNav, .logo img, .r36, .rek64, span[style="color: red; font-size: 1em; text-align: center;"], div[style="font-size:0.9em;"], hr[style="clear: left;"], a[href*="liveinternet.ru"], #trumpet_message, .mobile {
+	.footer, #boardNav, .logo img, .r36, .rek64, span[style="color: #2266AA; font-size: 1em; text-align: center;"], div[style="font-size:0.9em;"], hr[style="clear: left;"], a[href*="liveinternet.ru"], #trumpet_message, .mobile {
 	display: none !important;
 	}
 
