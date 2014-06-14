@@ -35,9 +35,9 @@
     background-color: #1D1F21 !important;
     color: #C5C8C6 !important;
     font-family: "Trebuchet MS",Trebuchet,tahoma,serif !important;
-	font-size: 14px !important;
-	border-radius: 0px !important;
-	border: none !important;
+    font-size: 14px !important;
+    border-radius: 0px !important;
+    border: none !important;
     margin: 5px !important;
     }
 
@@ -260,8 +260,11 @@
 
 
 	textarea, select {
+    -webkit-appearance: none;
 	-moz-appearance: none;
 	-moz-box-sizing: content-box;
+    text-indent: 0.01px !important;
+    text-overflow: "" !important;
 	background-color: #282A2E !important;
 	border-radius: 0px !important;
 	border: 1px solid #111111 !important;
