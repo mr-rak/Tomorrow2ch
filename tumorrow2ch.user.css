@@ -90,7 +90,11 @@
     border-top: 1px solid #282a2e !important;
     height: 0 !important;
     }
-    
+        
+    th {
+    border: 1px solid #111111 !important;    
+    }
+
     br[style="clear:left;"] {
     display:none !important;
     }
