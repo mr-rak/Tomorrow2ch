@@ -30,6 +30,17 @@
 /*	max-width: 1000px !important;*/
 	}
 
+    .theader{
+    background-image: none !important;
+    background-color: #1D1F21 !important;
+    color: #C5C8C6 !important;
+    font-family: "Trebuchet MS",Trebuchet,tahoma,serif !important;
+	font-size: 14px !important;
+	border-radius: 0px !important;
+	border: none !important;
+    margin: 5px !important;
+    }
+
 	.reply {
 	background-color: #282A2E !important;
 	border-radius: 0 !important;
@@ -39,7 +50,12 @@
 /*	display: table !important;*/
 	overflow: hidden !important;
 	}
-
+    
+    #de-qarea{
+    border: 1px solid #111111 !important;
+    padding: 5px !important;
+    }
+    
 	.post {
 	padding: 0px !important;
 	margin: 0px !important;
