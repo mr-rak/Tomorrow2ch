@@ -2,7 +2,7 @@
 
 # [Установить стиль](http://userstyles.org/styles/98408/tomorrow2ch)
 
-# [Установить меню](http://userscripts.org:8080/scripts/show/399635)
+# [Установить меню](http://userscripts-mirror.org/scripts/show/399635)
 
 Скриншоты.
 
