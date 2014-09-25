@@ -23,7 +23,7 @@ form {
     font-size: 0.9em;
 }
 
-.post.reply {
+.reply {
     background-color: #282A2E !important;
     border-radius: 0 !important;
     border: 1px solid #282A2E !important;
@@ -172,11 +172,7 @@ a.post-reply-link:hover {
     font-size: 13px !important;
 }
 
-.post.reply.de-pview {
-    border: 1px solid #111111 !important;
-}
-
-div[id^="preview-"] {
+div[id^="preview-"], .de-pview {
     border: 1px solid #111111 !important;
 }
 
